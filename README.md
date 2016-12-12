@@ -1,4 +1,14 @@
-# awesome
-整理一下star的内容，以及遇到的一些坑的处理方法
+## 目录
 
-[微信jssdk使用指南](./wx_jssdk_guide.md)
+* nodeJS
+* js
+* css
+* [微信相关开发](#微信相关开发)
+* [Mac](#Mac)
+
+
+## 微信相关开发
+[微信jssdk使用指南](./wechat/wx_jssdk_guide.md)
+
+## Mac
+[一些好用的应用](./mac/usefulApp.md)
