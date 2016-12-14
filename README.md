@@ -4,12 +4,12 @@
 * [javascript](#javascript)
 * [css](#css)
 * [数据可视化](#数据可视化)
-* [NodeJS](#NodeJS)
-* [React](#React)
-* [ReactNative](#ReactNative)
+* [NodeJS](#nodeJS)
+* [React](#react)
+* [ReactNative](#react native)
 * [微信相关开发](#微信相关开发)
-* [Mac](#Mac)
-* [chrome](#Chrome)
+* [Mac](#mac)
+* [chrome](#chrome)
 
 
 ----
@@ -73,7 +73,7 @@
 * [ecomfe / echarts](https://github.com/ecomfe/echarts)
 
 
-## NodeJS
+## nodeJS
 * [JacksonTian / doxmate](https://github.com/JacksonTian/doxmate) - 文档生成器
 * [nwjs / nw.js](https://github.com/nwjs/nw.js) - 桌面应用
 * [ariya / phantomjs](https://github.com/ariya/phantomjs)
@@ -86,7 +86,7 @@
 * [sequelize / sequelize](https://github.com/sequelize/sequelize)
 
 
-## React
+## react
 * [facebook / react](https://github.com/facebook/react)
 * [ReactTraining / react-router](https://github.com/ReactTraining/react-router)
 * [chenglou / react-motion](https://github.com/chenglou/react-motion)
@@ -99,7 +99,7 @@
 
 
 
-## ReactNative
+## react native
 * [facebook / react-native](https://github.com/facebook/react-native)
 * [jondot / awesome-react-native](https://github.com/jondot/awesome-react-native)
 * [reactnativecn / react-native-guide](https://github.com/reactnativecn/react-native-guide)
@@ -112,10 +112,10 @@
 ## 微信相关开发
 * [微信jssdk使用指南](./wechat/wx_jssdk_guide.md)
 
-## Mac
+## mac
 * [一些好用的应用](./mac/usefulApp.md)
 * [i5ting / sketch-practice](https://github.com/i5ting/sketch-practice) - 设计工具 sketch
 
 
-## Chrome
+## chrome
 * [chrome使用的插件](./chrome/plugins.md)
