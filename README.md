@@ -71,7 +71,7 @@
 * [d3 / d3](https://github.com/d3/d3)
 * [chartjs / Chart.js](https://github.com/chartjs/Chart.js)
 * [ecomfe / echarts](https://github.com/ecomfe/echarts)
-
+* [recharts / recharts](https://github.com/recharts/recharts) - react
 
 ## nodeJS
 * [JacksonTian / doxmate](https://github.com/JacksonTian/doxmate) - 文档生成器
@@ -96,7 +96,7 @@
 * [lewis617 / react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
 * [sammffl / react-webpack-template](https://github.com/sammffl/react-webpack-template)
 * [xgrommx / awesome-redux](https://github.com/xgrommx/awesome-redux)
-
+* [gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - blogs using React
 
 
 ## react native
