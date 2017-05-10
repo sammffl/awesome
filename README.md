@@ -1,6 +1,7 @@
 ## 目录
 
 * [综合](#综合)
+* [版本控制](#版本控制)
 * [javascript](#javascript)
 * [css](#css)
 * [数据可视化](#数据可视化)
@@ -29,6 +30,10 @@
 * [hawx1993 / Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)
 * [jikeytang / front-end-collect](https://github.com/jikeytang/front-end-collect)
 * [jsfront / month](https://github.com/jsfront/month)
+
+## 版本控制
+* [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* []
 
 
 ## javascript
