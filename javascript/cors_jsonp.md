@@ -13,13 +13,15 @@
 
 浏览器检测到请求跨域会自动使用cors通信
 
-![allow origin](./allow-origin.png)
+![allow origin](./allow-origin.png =200)
 
 1. 首先会在`request header`添加`origin`字段，来说明请求来自哪里。
 2. 然后服务器根据这个值判断是否同意这次请求
 3. 服务器返回
    1. 同意请求，会在`response header`添加`Access-Control-Allow-Origin`字段，**指定的域名**或`*`
    2. 拒绝请求，返回正常的HTTP响应，浏览器判断没有`Access-Control-Allow-Origin`报错，错误不能通过状态码捕获。
+
+![Access-Control-Allow-Origin](./response_header.png =200)
 
 【注】
 
