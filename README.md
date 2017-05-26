@@ -7,7 +7,7 @@
 * [数据可视化](#数据可视化)
 * [NodeJS](#nodeJS)
 * [React](#react)
-* [ReactNative](#react native)
+* [ReactNative](#reactNative)
 * [微信相关开发](#微信相关开发)
 * [Mac](#mac)
 * [chrome](#chrome)
@@ -62,6 +62,7 @@
 * [lightningtgc / MProgress.js](https://github.com/lightningtgc/MProgress.js)
 * [zhangxinxu / ieBetter.js](https://github.com/zhangxinxu/ieBetter.js)
 * [matthieua / WOW](https://github.com/matthieua/WOW)
+* [浏览器跨域解决](./javascript/cors_jsonp.md)
 
 ## css
 * [FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
@@ -104,7 +105,7 @@
 * [gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - blogs using React
 
 
-## react native
+## reactNative
 * [facebook / react-native](https://github.com/facebook/react-native)
 * [jondot / awesome-react-native](https://github.com/jondot/awesome-react-native)
 * [reactnativecn / react-native-guide](https://github.com/reactnativecn/react-native-guide)
